@@ -1,0 +1,15 @@
+.box {
+    height: 100vh;
+    background-color: pink;
+    text-align: center;
+}
+
+#size {
+    padding: 5px;
+    margin: 5px;
+    color: black;
+}
+
+ #btnMargin {
+    margin-top: 20px;
+ }
